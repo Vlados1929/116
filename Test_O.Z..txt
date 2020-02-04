@@ -10,8 +10,10 @@ class Test {
 		}
 		System.out.println("sum HAAAAAAAAAAAAAAH);
 	}
-//Just a comment
+//Just a comment 
 }
 lalalalalalala
 
+
+//Have a nice day. ^^
 
