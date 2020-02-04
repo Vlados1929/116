@@ -1,14 +1,14 @@
 import java.util.Scanner;
 class Test {
 	public static void main(String args[]){
-		System.out.println ("Введите любое целое положительное число");
+		System.out.println ("Г‚ГўГҐГ¤ГЁГІГҐ Г«ГѕГЎГ®ГҐ Г¶ГҐГ«Г®ГҐ ГЇГ®Г«Г®Г¦ГЁГІГҐГ«ГјГ­Г®ГҐ Г·ГЁГ±Г«Г®");
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		int sum = 0;
 		for (int i=1; i<= n; i++) {
 		sum = sum + i;
 		}
-		System.out.println("sum);
+		System.out.println("sum HAAAAAAAAAAAAAAH);
 	}
 //Just a comment
 }
