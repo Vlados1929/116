@@ -25,3 +25,5 @@ for lat in sorted(d):
 g.close(
 // Hi!
 // How are you
+
+//Have a nice day. ^^
